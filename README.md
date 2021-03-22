@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 <h3> 🛠 &nbsp;Developing in </h3>
-<img width="25%" align="right" alt="Github"https://cdn.discordapp.com/attachments/809148695228579850/823554224813899786/R89a7028cb059866bd6102282e066ae10.gif" />
+<img width="25%" align="right" alt="Discord"https://cdn.discordapp.com/attachments/809148695228579850/823554224813899786/R89a7028cb059866bd6102282e066ae10.gif" />
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
