@@ -25,13 +25,6 @@
 
 <br/>
 
-<h3> ⚙️  GitHub Analytics </h3>
-  
-<a href="https://github.com/japanzin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikit0&theme=react&show_icons=true" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikit0&theme=react&layout=compact" style"max-width: 100%;" />
-</a>
-
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/channel/UCImCXOlTEN0DsUo8sppyuSw)](https://youtube.com/channel/UCImCXOlTEN0DsUo8sppyuSw) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/Renato.moreno03/)](https://www.instagram.com/Renato.moreno03/)
 
 
