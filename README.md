@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RenateX
+- 😉 Hi, I’m @RenateX
 - ☕ I'm programming in java script 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 RenateX/RenateX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
