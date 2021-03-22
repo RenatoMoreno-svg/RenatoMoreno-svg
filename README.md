@@ -1,7 +1,7 @@
 ### 🌍 "Limit exists only for those who believe in them " ☕
 
 - 😉 Hi, I’m @Japan
-- ☕ I'm programming in java script 
+- ☕ I'm programming in full stack 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
