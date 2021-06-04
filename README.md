@@ -1,5 +1,3 @@
-<img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-2/422204356054614031.png">
-
 ### 🌍 "Limit exists only for those who believe in them " ☕
 
 - 😉 Hi, I’m @Japan
@@ -8,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 <h3> 🛠 &nbsp;Developing in </h3>
-<img width="25%" align="right" alt="Discord" src="https://cdn.discordapp.com/attachments/809148695228579850/823554224813899786/R89a7028cb059866bd6102282e066ae10.gif" />
+<img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-2/422204356054614031.png">
 
 
 - 🌐 &nbsp;
