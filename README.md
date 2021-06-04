@@ -1,3 +1,5 @@
+<img src= "https://discord.c99.nl/widget/theme-2/422204356054614031.png">
+
 ### 🌍 "Limit exists only for those who believe in them " ☕
 
 - 😉 Hi, I’m @Japan
