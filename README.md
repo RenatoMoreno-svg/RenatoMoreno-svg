@@ -1,10 +1,5 @@
 ### 🌍 "Limit exists only for those who believe in them " ☕
 
-- 😉 Hi, I’m @Japan
-- ☕ I'm programming in full stack 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-
 <h3> 🛠 &nbsp;Developing in </h3>
 <img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-2/422204356054614031.png">
 
