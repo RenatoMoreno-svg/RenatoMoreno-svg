@@ -20,8 +20,3 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/channel/UCImCXOlTEN0DsUo8sppyuSw)](https://youtube.com/channel/UCImCXOlTEN0DsUo8sppyuSw)
-
-
-
