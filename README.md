@@ -1,8 +1,6 @@
 ### 🌍 "Limit exists only for those who believe in them " ☕
 
 <h3> 🛠 &nbsp;Developing in </h3>
-<img width="50%" align="right" src= "https://discord.c99.nl/widget/theme-2/422204356054614031.png">
-
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
