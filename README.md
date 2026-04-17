@@ -10,7 +10,7 @@
 - 🔭 Atualmente desenvolvendo e aprimorando projetos em **React e JavaScript**
 - 🌱 Explorando novas soluções e aprendendo constantemente
 - 💬 Me pergunte sobre **Desenvolvimento Web, Lua e Banco de Dados**
-- 📫 Como chegar até mim: **[Seu Email Aqui]**
+- 📫 Como chegar até mim: **[renatomoreno07@hotmail.com]**
 - 📄 Conheça mais do meu trabalho no meu **[Portfólio](https://renatomoreno.discloud.app/)**
 
 ---
