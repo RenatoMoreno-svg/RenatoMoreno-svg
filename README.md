@@ -1,56 +1,75 @@
 <div align="center">
-  <h2> Olá! Eu sou o Renato Moreno 👋</h2>
-  <h3><em>"Limits exist only for those who believe in them"</em> ☕🚀</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Renato+Moreno;UI%2FUX+Designer;Front-End+Developer;Engenharia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+  <p>
+    <b>Transformando ideias em experiências digitais intuitivas, escaláveis e esteticamente refinadas.</b>
+  </p>
+  <p>
+    📍 Itatiba, SP - Brasil | 🎓 Universidade São Francisco
+  </p>
 </div>
 
----
+<br>
 
-### 👨‍💻 Sobre mim
+## ✦ Visão Geral
 
-- 🔭 Atualmente desenvolvendo e aprimorando projetos em **React e JavaScript**
-- 🌱 Explorando novas soluções e aprendendo constantemente
-- 💬 Me pergunte sobre **Desenvolvimento Web, Lua e Banco de Dados**
-- 📫 Como chegar até mim: **[renatomoreno07@hotmail.com]**
-- 📄 Conheça mais do meu trabalho no meu **[Portfólio](https://renatomoreno.discloud.app/)**
+> Sou apaixonado por unir o design centrado no usuário com código limpo. Meu foco é projetar e desenvolver interfaces modernas, landing pages de alta conversão, e-commerces e sistemas escaláveis, sempre garantindo consistência visual e acessibilidade.
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 UI/UX Design</h3>
+      <p>Prototipagem de alta fidelidade, Design Systems, Wireframing, Usabilidade e Jornada do Usuário.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Front-End</h3>
+      <p>Interfaces responsivas e dinâmicas utilizando React, JavaScript (ES6+), HTML5 e CSS3.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Back-End & Dados</h3>
+      <p>Desenvolvimento de lógicas de negócio, scripts e bancos de dados com Node.js, Lua e MySQL.</p>
+    </td>
+  </tr>
+</table>
 
-### 🛠 Minhas Tecnologias e Ferramentas
+<br>
+
+## ✦ Stack & Ferramentas
 
 <div align="center">
-
-**Front-end & UI**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Back-end, Scripting & Banco de Dados**<br>
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Ferramentas de Desenvolvimento & Design**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-
+  <p><b>Design & Prototipagem</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,xd,ps" alt="Design"/></a>
+  <br><br>
+  <p><b>Desenvolvimento</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,lua,mysql" alt="Dev"/></a>
+  <br><br>
+  <p><b>Ferramentas de Versionamento e IDE</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Tools"/></a>
 </div>
 
----
+<br>
 
-### 📊 Meus Status no GitHub
+## ✦ Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoMoreno-svg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMoreno-svg&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenatoMoreno-svg&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=9CA3AF&icon_color=38BDF8" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMoreno-svg&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=9CA3AF" alt="Top Languages" />
 </div>
 
----
+<br>
 
-### 🌐 Conecte-se comigo:
+## ✦ Vamos nos conectar?
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/renato-moreno-88a185256/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:renatomoreno07@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <p>Gostaria de discutir um projeto, uma ideia de interface ou uma oportunidade?</p>
+  <a href="https://renatomoreno.discloud.app/">
+    <img src="https://img.shields.io/badge/Acessar_Portfólio-%231E293B.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/renato-moreno-88a185256/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:renatomoreno07@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
