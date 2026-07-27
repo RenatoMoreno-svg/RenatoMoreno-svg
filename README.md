@@ -55,8 +55,8 @@ Sou um profissional com perfil multidisciplinar que atua na interseção entre *
 ## ✦ Dashboard & Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenatoMoreno-svg&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C778DD&text_color=9CA3AF&icon_color=C778DD" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoMoreno-svg&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C778DD&text_color=9CA3AF" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C778DD&text_color=9CA3AF&icon_color=C778DD" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0D1117&title_color=C778DD&text_color=9CA3AF" alt="Top Languages" />
 </div>
 
 <br>
